@@ -1,3 +1,7 @@
+Credits: The code has been taken from  https://github.com/Azure/azure-cosmos-dotnet-v2/blob/d3f8e9c731bc92816d023719e7e780b7a9546ca2/samples/rest-from-.net/Program.cs#L151-L164
+
+This repo will be deleted within a couple of days and if any changes a pull request will be raised against the original code base.
+
 ## REST from .NET
 
 This sample application was developed in .NET 4.5
